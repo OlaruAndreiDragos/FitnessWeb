@@ -1,0 +1,11 @@
+.footer{
+    background-color: red;
+}
+.left-elemenets{
+    background-color:rgb(56, 56, 56);
+}
+.content-footer-left h1{
+    text-align:center;
+    color:rgb(255, 136, 0);
+    font-size:24px;
+}
